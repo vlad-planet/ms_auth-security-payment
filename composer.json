@@ -1,0 +1,17 @@
+{
+    "name": "ms/payment",
+    "description": "Microservices",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladislav Bashlykov",
+            "email": "vlad-planet@mail.ru"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
+    "require": {
+        "prodigyview/prodigyview": "dev-master",
+        "phpunit/phpunit": "^7"
+    }
+}
